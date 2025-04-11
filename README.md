@@ -1,5 +1,5 @@
 # AI_Research
-This repository contains all relevant materials for the research project, including literature review, qualitative and quantitative analyses, drafts, and additional supporting documents./n
+This repository contains all relevant materials for the research project, including literature review, qualitative and quantitative analyses, drafts, and additional supporting documents.\n
 ·Drafts_and_Reports/n
 Contains working drafts, final reports, and progress updates related to the project.·Literature_Review/
 Includes collected academic sources, annotated bibliographies, and literature matrices.
